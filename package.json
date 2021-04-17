@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "service-worker.js",
+  "engines": {
+    "node": "6.9.0",
+    "npm": "2.15.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
