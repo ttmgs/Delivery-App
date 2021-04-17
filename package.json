@@ -15,9 +15,8 @@
   "bugs": {
     "url": "https://github.com/ttmgs/Delivery-App/issues"
   },
-  "homepage": "https://github.com/ttmgs/Delivery-App#readme",
+  "homepage": "https://ttmgs.github.io/Delivery-App/",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.12.4"
+    "express": "^4.17.1"
   }
 }
