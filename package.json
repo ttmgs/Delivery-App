@@ -2,7 +2,7 @@
   "name": "delivery-app",
   "version": "1.0.0",
   "description": "",
-  "main": "service-worker.js",
+  "main": "package.json",
   "engines": {
     "node": "6.9.0",
     "npm": "2.15.1"
@@ -10,7 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server -a localhost -p 8000"
-
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/ttmgs/Delivery-App/issues"
   },
-  "homepage": "https://github.com/ttmgs/Delivery-App#readme"
+  "homepage": "https://github.com/ttmgs/Delivery-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
 }
