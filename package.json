@@ -2,11 +2,7 @@
   "name": "delivery-app",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "engines": {
-    "node": "6.9.0",
-    "npm": "2.15.1"
-  },
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
