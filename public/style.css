@@ -9,7 +9,7 @@ header {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: white;
   font-size: 50px;
-  color: green;
+  /* color: green; */
 
 }
 
@@ -23,6 +23,6 @@ body {
   text-align: center;
   padding: 70px;
   font-size: 60px;
-  color: green;
+  /* color: green; */
 }
 
