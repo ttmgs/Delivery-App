@@ -20,7 +20,7 @@ body {
 #words {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   color: white;
-  text-align: center;
+  /* text-align: center; */
   padding: 70px;
   font-size: 60px;
   color: rgb(0, 81, 255);
@@ -28,5 +28,6 @@ body {
 
 #date {
   color: aliceblue;
+  text-align: center;
   font-size: 30px;
 }
