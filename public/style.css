@@ -31,3 +31,13 @@ body {
   text-align: center;
   font-size: 30px;
 }
+
+#boxone {
+  margin-top: 15px;
+  /* text-align: center; */
+}
+
+#items {
+  color: white;
+  border: 2px solid wheat;
+}
