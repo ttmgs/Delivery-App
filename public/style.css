@@ -7,9 +7,8 @@ header {
 #title{
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: white;
+  color: black;
   font-size: 50px;
-  color: green;
 
 }
 
@@ -19,15 +18,14 @@ body {
 
 #words {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  color: white;
+  color: black;
   /* text-align: center; */
   padding: 70px;
   font-size: 48px;
-  color: white;
 }
 
 #date {
-  color: white;
+  color: black;
   text-align: center;
   font-size: 30px;
 }
@@ -38,6 +36,12 @@ body {
 }
 
 #items {
+  background: black;
   color: white;
   border: 2px solid wheat;
+  
+}
+
+body {
+  background-image: url("a2ba4c730534ab1025ff9c8680546378.jpg")
 }
